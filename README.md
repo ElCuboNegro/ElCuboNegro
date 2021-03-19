@@ -1,9 +1,9 @@
 ## Hi there, I'm Juan José 
 I am a true beliver of the voice interfaces and the AI assistants :chart_with_upwards_trend:
 I believe in enhancing project performance by transforming data into useful analysis in financial stages and strategic operations.
-Passionate and eager to engage conversations with other SWE's and C-level staff to keep 
+Passionate and eager to engage conversations with other SWE's and C-level staff to keep learning about life, universe and everything.
 
-In my personal space I love to watch anime 🐉:, climbing :goat: and travel :airplane:. My next destination will be Portugal 🏖️:
+In my personal space I love to watch anime 🐉, develop airships 🛰️ and travel ✈️. My next destination will be Portugal 🏖️:
 
 **More about me on:**
 
