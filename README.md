@@ -1,6 +1,4 @@
-<img src="https://github.com/edward0rtiz/edward0rtiz/blob/main/Japon-559.JPG" width="1000" height="450">
-
-## Hi there, I'm Edward 
+## Hi there, I'm Juan José 
 I am a true beliver of the voice interfaces and the AI assistants :chart_with_upwards_trend:
 I believe in enhancing project performance by transforming data into useful analysis in financial stages and strategic operations.
 Passionate and eager to engage conversations with other SWE's and C-level staff to keep 
