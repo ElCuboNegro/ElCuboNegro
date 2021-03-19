@@ -42,5 +42,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about conversational design
 - 📫 How to reach me: just send me a tweet @elcubonegro
 - 😄 Pronouns: his magesty.
-- ⚡ Fun fact: I have two black cats
--->
+- ⚡ Fun fact: I have two black cats --> 🐈 🐱
