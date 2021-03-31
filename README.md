@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Mycroft AI.
 - 🤔 I’m looking for help with how to become a better coder and help others to become better in their jobs
 - 💬 Ask me about conversational design / One Piece / Greek mithology
-- 📫 How to reach me: just send me a tweet @elcubonegro, email me j.alban@uniandes.edu.co / ![WhatsApp me!](https://api.whatsapp.com/send?phone=+573058121437)
+- 📫 How to reach me: just send me a tweet @elcubonegro, email me j.alban@uniandes.edu.co / [WhatsApp me!](https://api.whatsapp.com/send?phone=+573058121437)
 - 😄 Pronouns: He/Him/His magesty.
 - ⚡ Fun fact: I have two black cats --> 🐈 🐱
