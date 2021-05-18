@@ -1,6 +1,7 @@
 ## Hi there, I'm Juan José 
 I am a true beliver of the voice interfaces and the AI assistants :chart_with_upwards_trend:
 I believe in enhancing project performance by transforming data into useful analysis in financial stages and strategic operations.
+I'm becoming fan of CI/CD and MLOps
 Passionate and eager to engage conversations with other SWE's and C-level staff to keep learning about life, universe and everything.
 
 In my personal space I love to watch anime 🐉, develop airships 🛰️ and travel ✈️. My next destination will be Portugal 🏖️:
@@ -48,7 +49,9 @@ In my personal space I love to watch anime 🐉, develop airships 🛰️ and tr
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Google Actions as a hobby bcause I love chatbots :)
+- 😎 I'm working with an amazing team in @sumzcol // Fliipa!
 - 🌱 I’m currently learning Structural math for CS, Spark/PySpark and Dask.
+- 🎶 I love good flows (workflows and music... flow?)
 - 👯 I’m looking to collaborate on Mycroft AI.
 - 🤔 I’m looking for help with how to become a better coder and help others to become better in their jobs
 - 💬 Ask me about conversational design / One Piece / Greek mithology
