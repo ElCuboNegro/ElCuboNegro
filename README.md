@@ -17,8 +17,10 @@ In my personal space I love to watch anime 🐉, develop airships 🛰️ and tr
   <summary>:paw_prints:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
   <br/>
   <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=elcubonegro&show_icons=true&count_private=true&theme=dark" width="355"></a>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcubonegro&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
+	  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=elcubonegro&show_icons=true&count_private=true&theme=dark" width="355"></a>
+	  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcubonegro&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
+	  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elcubonegro&theme=dark" width="350"></a>
+
    </p>  
 </details>
 
