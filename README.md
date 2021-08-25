@@ -44,6 +44,7 @@ In my personal space I love to watch anime 🐉, develop airships 🛰️ and tr
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=2C2255)\
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=spark)&nbsp;
 </details>
 
 
