@@ -12,6 +12,7 @@ In my personal space I love to watch anime 🐉, develop airships 🛰️ and tr
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@elcubonegro)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/elcubonegro)
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/gieutera/)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FNAY6F3S6LXAU)
 
 <details>
   <summary>:paw_prints:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
