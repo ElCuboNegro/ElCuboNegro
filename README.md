@@ -53,12 +53,11 @@ In my personal space I love to watch anime 🐉, develop airships 🛰️ and tr
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Google Actions as a hobby bcause I love chatbots :)
-- 😎 I'm working with an amazing team in @sumzcol // Fliipa!
-- 🌱 I’m currently learning Structural math for CS, Spark/PySpark and Dask.
-- 🎶 I love good flows (workflows and music... flow?)
+- 🌱 I’m currently learning Structural math for CS, Terraform and New Relic.
+- 🎶 I love good flows (workflows, git flows, and a good music... flow?)
 - 👯 I’m looking to collaborate on Mycroft AI.
 - 🤔 I’m looking for help with how to become a better coder and help others to become better in their jobs
-- 💬 Ask me about conversational design / One Piece / Greek mithology
+- 💬 Ask me about conversational design / One Piece / Greek mithology / Kedro
 - 📫 How to reach me: just send me a tweet @elcubonegro, email me j.alban@uniandes.edu.co / [WhatsApp me!](https://api.whatsapp.com/send?phone=+573058121437)
 - 😄 Pronouns: He/Him/His magesty.
 - ⚡ Fun fact: I have two black cats --> 🐈 🐱
