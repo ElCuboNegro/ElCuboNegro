@@ -15,15 +15,6 @@ In my personal space I love to watch anime 🐉, develop (steampunk-ish) airship
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/gieutera/)
 
 <details>
-  <summary>:paw_prints:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
-  <br/>
-  <p align='center'>
-	  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=elcubonegro&show_icons=true&count_private=true&theme=dark" width="360"></a>
-
-   </p>  
-</details>
-
-<details>
 	<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>My Stack</b></summary>
 	<br/>
  
