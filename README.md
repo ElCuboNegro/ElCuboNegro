@@ -5,7 +5,7 @@ I am a true beliver of the voice interfaces and the AI assistants :chart_with_up
 I believe in enhancing project performance by transforming data into useful analysis in financial stages and strategic operations.
 Passionate and eager to engage conversations with other SWE's and C-level staff to keep learning about life, universe and everything.
 
-In my personal space I love to watch anime 🐉, develop (steampunk-ish) airships 🛰️ and travel ✈️. My next destination will be Spain 🏖️:
+In my personal space I love to watch anime 🐉, develop artificial languages and maths 🛰️ and make mixology. My next destination will be Israel 🏖️:
 
 **More about me on:**
 
@@ -41,12 +41,12 @@ In my personal space I love to watch anime 🐉, develop (steampunk-ish) airship
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Sage, my startup, as I made my hobby building chatbots my business :)
-- 🌱 I’m currently learning Structural math for CS, LoRas and puppeteer.
+- 🔭 I’m currently working on DataArt, as Senior Machine Learning Engineer :)
+- 🌱 I’m currently learning Structural math for CS, statistics, and other fun stuff.
 - 🎶 I love good flows (workflows, git flows, and a good music... flow?)
-- 👯 I’m looking to collaborate reviving Mycroft AI.
+- 👯 I’m looking to create a opensource life assistant.
 - 🤔 I’m looking for help with how to become a better coder and help others to become better in their jobs
-- 💬 Ask me about conversational design / One Piece / Greek mithology / Kedro
+- 💬 Ask me about conversational design / One Piece / Greek mithology / Kedro / the spot where software and politics become one
 - 📫 How to reach me: just send me a tweet @elcubonegro
 - 😄 Pronouns: He/Him/His magesty.
 - ⚡ Fun fact: I have two black cats --> 🐈 🐱
