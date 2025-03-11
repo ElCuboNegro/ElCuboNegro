@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 🎶 I love good flows (workflows, git flows, and a good music... flow?)
 - 👯 I’m looking to create a opensource life assistant.
 - 🤔 I’m looking for help with how to become a better coder and help others to become better in their jobs
-- 💬 Ask me about conversational design / One Piece / Greek mithology / Kedro / the spot where software and politics become one
+- 💬 Ask me about conversational design / One Piece / Greek mithology / Kedro / the spot where software and politics become one (https://github.com/SageWizzards/Dynamic-Voting-Protocol)
 - 📫 How to reach me: just send me a tweet @elcubonegro
 - 😄 Pronouns: He/Him/His magesty.
 - ⚡ Fun fact: I have two black cats --> 🐈 🐱
