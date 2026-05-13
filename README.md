@@ -1,52 +1,36 @@
-## Hi there, I'm Juan José 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FNAY6F3S6LXAU)
+# 👋 Hola, soy Juan José Albán
 
-I am a true beliver of the voice interfaces and the AI assistants :chart_with_upwards_trend:
-I believe in enhancing project performance by transforming data into useful analysis in financial stages and strategic operations.
-Passionate and eager to engage conversations with other SWE's and C-level staff to keep learning about life, universe and everything.
+Soy un **Senior Machine Learning & AI Engineer** con más de 15 años de experiencia técnica, radicado en Bogotá, Colombia. Me apasiona construir sistemas robustos, con un enfoque estricto en la contenerización, el análisis estático y la arquitectura de AI.
 
-In my personal space I love to watch anime 🐉, develop artificial languages and maths 🛰️ and make mixology. My next destination will be Israel 🏖️:
+Actualmente exploro la intersección entre la inteligencia artificial, la biotecnología y la gestión del conocimiento.
 
-**More about me on:**
+## 💻 Perfil Profesional y Técnico
+*   🏢 **Actualmente:** Technical Lead en DeAcero, liderando la orquestación de pipelines agénticos y la modernización de sistemas legacy.
+*   🕰️ **Experiencia Previa:** Backend & Data Engineer enfocado en proyectos de telemetría y procesamiento de datos.
+*   ⚙️ **Stack y Prácticas:** Python, Django, Docker, Spec Driven Development, LangChain, y... Obsidian?.
+*   🚀 **Proyectos Destacados:** 
+    *   **Cornerstone:** Desarrollo de infraestructura técnica y estandarización de arquitecturas agénticas.
+    *   Integración de bases de datos de conocimiento a nivel big enterprise.
+    *   Integración de buenas practicas dentro de los sistemas de CI/CD
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/elcubonegro/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@sagewizzards)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/elcubonegro)
-[<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/gieutera/)
+## 🔬 Kronos BioLabs SAS & Biotecnología
+Fuera del código convencional, soy el fundador y director de **Kronos BioLabs**, donde me dedico a la investigación biotecnológica:
+*   Cultivo de tejidos vegetales y micropropagación.
+*   Formulación de medios de cultivo y fitohormonas (BAP, ANA).
+*   Producción de biomasa fúngica y micelio líquido (Shiitake, Melena de León, Orellanas).
+*   Creación de herramientas de software para biotecnología y biología computacional.
 
-<details>
-	<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>My Stack</b></summary>
-	<br/>
- 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=2C2255)\
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=spark)&nbsp;
-</details>
+## 🧠 Humanidades y Otros Intereses
+*   📚 **Lingüística y Filología:** Estudioso del hebreo, ladino y español. Trabajando en proyectos de diccionarios de polisemia como Phonikud.
+*   ✍️ **Literatura:** Escritor de ciencia ficción y creador de novelas y poemas epicos que intento publicar de forma anonima.
+*   🗃️ **Gestión del Conocimiento (PKM):** Mantengo mi bóveda centralizada "Alewin" (Mi asistente de IA) en Obsidian, conectando todos mis dominios de trabajo.
+*   ⚔️ **Historia:** Aficionado a la literatura histórica y técnica sobre esgrima antigua.
 
+## ⚡ Sobre mi...
+*   Manejo mi entorno de desarrollo en un sistema Linux.
+*   Exploro mundos en Minecraft, Hytale, No Man's Sky y Pokémon GO.
+*   Comparto mi laboratorio y espacio de trabajo con mi gato, Kronos, mi gata, Eeve, y mi asistente humana, Hellen.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on DataArt, as Senior Machine Learning Engineer :)
-- 🌱 I’m currently learning Structural math for CS, statistics, and other fun stuff.
-- 🎶 I love good flows (workflows, git flows, and a good music... flow?)
-- 👯 I’m looking to create a opensource life assistant.
-- 🤔 I’m looking for help with how to become a better coder and help others to become better in their jobs
-- 💬 Ask me about conversational design / One Piece / Greek mithology / Kedro / the spot where software and politics become one (https://github.com/SageWizzards/Dynamic-Voting-Protocol)
-- 📫 How to reach me: just send me a tweet @elcubonegro
-- 😄 Pronouns: He/Him/His magesty.
-- ⚡ Fun fact: I have two black cats --> 🐈 🐱
+---
+📫 **Conecta conmigo:**
+*puedes buscarme en x (elcubonegro) o en cualquiera de las otras redes sociales (elcubonegr0)*
