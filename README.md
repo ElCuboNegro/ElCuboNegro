@@ -1,36 +1,62 @@
-# 👋 Hola, soy Juan José Albán
+# Juan José Albán Ortiz
 
-Soy un **Senior Machine Learning & AI Engineer** con más de 15 años de experiencia técnica, radicado en Bogotá, Colombia. Me apasiona construir sistemas robustos, con un enfoque estricto en la contenerización, el análisis estático y la arquitectura de AI.
+**Tech Lead @ Grupo DeAcero · Cofundador, Kronos BioLabs · Bogotá, Colombia**
 
-Actualmente exploro la intersección entre la inteligencia artificial, la biotecnología y la gestión del conocimiento.
-
-## 💻 Perfil Profesional y Técnico
-*   🏢 **Actualmente:** Technical Lead en DeAcero, liderando la orquestación de pipelines agénticos y la modernización de sistemas legacy.
-*   🕰️ **Experiencia Previa:** Backend & Data Engineer enfocado en proyectos de telemetría y procesamiento de datos.
-*   ⚙️ **Stack y Prácticas:** Python, Django, Docker, Spec Driven Development, LangChain, y... Obsidian?.
-*   🚀 **Proyectos Destacados:** 
-    *   **Cornerstone:** Desarrollo de infraestructura técnica y estandarización de arquitecturas agénticas.
-    *   Integración de bases de datos de conocimiento a nivel big enterprise.
-    *   Integración de buenas practicas dentro de los sistemas de CI/CD
-
-## 🔬 Kronos BioLabs SAS & Biotecnología
-Fuera del código convencional, soy el fundador y director de **Kronos BioLabs**, donde me dedico a la investigación biotecnológica:
-*   Cultivo de tejidos vegetales y micropropagación.
-*   Formulación de medios de cultivo y fitohormonas (BAP, ANA).
-*   Producción de biomasa fúngica y micelio líquido (Shiitake, Melena de León, Orellanas).
-*   Creación de herramientas de software para biotecnología y biología computacional.
-
-## 🧠 Humanidades y Otros Intereses
-*   📚 **Lingüística y Filología:** Estudioso del hebreo, ladino y español. Trabajando en proyectos de diccionarios de polisemia como Phonikud.
-*   ✍️ **Literatura:** Escritor de ciencia ficción y creador de novelas y poemas epicos que intento publicar de forma anonima.
-*   🗃️ **Gestión del Conocimiento (PKM):** Mantengo mi bóveda centralizada "Alewin" (Mi asistente de IA) en Obsidian, conectando todos mis dominios de trabajo.
-*   ⚔️ **Historia:** Aficionado a la literatura histórica y técnica sobre esgrima antigua.
-
-## ⚡ Sobre mi...
-*   Manejo mi entorno de desarrollo en un sistema Linux.
-*   Exploro mundos en Minecraft, Hytale, No Man's Sky y Pokémon GO.
-*   Comparto mi laboratorio y espacio de trabajo con mi gato, Kronos, mi gata, Eeve, y mi asistente humana, Hellen.
+Trabajo en la intersección entre dos clases de sistemas complejos: los que se construyen en código y los que crecen. En DeAcero orquesto agentes de inteligencia artificial sobre infraestructura industrial. En Kronos BioLabs cultivamos organismos vivos con ambición de escala. No son vidas paralelas: son el mismo problema —emergencia, estado, dependencias no lineales, fallo en cascada— ejecutado en sustratos distintos.
 
 ---
-📫 **Conecta conmigo:**
-*puedes buscarme en x (elcubonegro) o en cualquiera de las otras redes sociales (elcubonegr0)*
+
+## Stack actual
+
+**DeAcero — ML/AI Engineering**
+Google Agent Development Kit (ADK) · API de Anthropic · Python · Docker · GCP · infraestructura como código · análisis estático en pre-commit
+
+**Kronos BioLabs — Biotecnología**
+Cultivo de tejidos vegetales · medio Murashige & Skoog · micropropagación · biomasa fúngica (Shiitake, Melena de León, Orellanas) · biología computacional
+
+---
+
+## Cómo pienso
+
+Todo tiene estructura de grafo. Pienso en grafos de emanación antes de pensar en DAGs: cómo el conocimiento fluye a través de niveles de abstracción, cómo cada nodo hereda restricciones de los superiores y propaga efectos hacia los inferiores.
+
+Cada decisión técnica tiene historia. La documentación no es carga administrativa: es la memoria del sistema. Si no está documentado, no existe.
+
+---
+
+## Fuera del código
+
+Escribo poesía épica y ficción científica. Construí una mitología original para modelar fuerzas primordiales en sistemas de IA. Estudio hebreo y ladino. Investigo mi genealogía sefardí. Trabajo en Phonikud, un diccionario de polisemia para el español y el hebreo.
+
+Estos no son hobbies: son los instrumentos con los que proceso complejidad que no cabe en un diagrama de arquitectura.
+
+Trabajo desde un monasterio de casi 300 años en La Candelaria. Kronos (gato), Eeve (gata) y Hellen comparten el laboratorio. En las videollamadas es probable que me veas preparando café de especialidad.
+
+---
+
+## Proyectos activos
+
+**deagentic/ — guardrails enterprise para trabajo agéntico**
+- [cornerstone](https://github.com/deagentic/cornerstone) — framework de CI agéntico diseñado para comprimir tiempo y costo en despliegues a escala enterprise
+- [keystone](https://github.com/deagentic/keystone) — MCP de conocimiento unificado: la capa de contexto persistente del ecosistema
+- [lodge](https://github.com/deagentic/lodge) — servidor de plataforma del ecosistema (Lifecycle · Orchestration · Distribution · Governance · Events)
+- [cornerstone-agents](https://github.com/deagentic/cornerstone-agents) — taxonomía de skills composables para agentes compartidos entre proyectos
+
+**Datos & Pipelines**
+- [kedro](https://github.com/ElCuboNegro/kedro) — pipelines de datos reproducibles y mantenibles
+
+**Lingüística computacional**
+- [phonikud](https://github.com/ElCuboNegro/phonikud) — conversión grafema-fonema (G2P) para hebreo
+
+**Herramientas**
+- [cookiecutter-agentic-ci](https://github.com/ElCuboNegro/cookiecutter-agentic-ci) — template para proyectos agénticos con CI/CD
+- [scaffold](https://github.com/ElCuboNegro/scaffold) — scaffold FastAPI + Celery + Behave
+
+## Guías y documentos
+
+- [Trabajar conmigo](https://github.com/ElCuboNegro/trabajar-conmigo) — cómo pienso, qué espero y cómo trabajo
+- [Guía de colaboración para la era de la IA](https://github.com/ElCuboNegro/collaboration-guides) — principios de colaboración para equipos con herramientas de IA
+
+---
+
+*x / redes sociales: [@elcubonegr0](https://x.com/elcubonegr0)*
