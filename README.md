@@ -1,62 +1,64 @@
 # Juan José Albán Ortiz
 
-**Tech Lead @ Grupo DeAcero · Cofundador, Kronos BioLabs · Bogotá, Colombia**
+**AI Engineering Lead · Multi-agent Systems · LLM Orchestration · Enterprise Agentic Infrastructure · Computational Linguistics**
 
-Trabajo en la intersección entre dos clases de sistemas complejos: los que se construyen en código y los que crecen. En DeAcero orquesto agentes de inteligencia artificial sobre infraestructura industrial. En Kronos BioLabs cultivamos organismos vivos con ambición de escala. No son vidas paralelas: son el mismo problema —emergencia, estado, dependencias no lineales, fallo en cascada— ejecutado en sustratos distintos.
-
----
-
-## Stack actual
-
-**DeAcero — ML/AI Engineering**
-Google Agent Development Kit (ADK) · API de Anthropic · Python · Docker · GCP · infraestructura como código · análisis estático en pre-commit
-
-**Kronos BioLabs — Biotecnología**
-Cultivo de tejidos vegetales · medio Murashige & Skoog · micropropagación · biomasa fúngica (Shiitake, Melena de León, Orellanas) · biología computacional
+*Tech Lead @ Grupo DeAcero · Co-founder, Kronos BioLabs · Bogotá, Colombia*
 
 ---
 
-## Cómo pienso
+I build the infrastructure layer that makes agentic AI work at enterprise scale: state graphs, orchestration pipelines, knowledge systems, and the guardrails that keep them from collapsing under production load. At [deagentic/](https://github.com/deagentic), we compress the time and cost of deploying multi-agent systems from months to days.
 
-Todo tiene estructura de grafo. Pienso en grafos de emanación antes de pensar en DAGs: cómo el conocimiento fluye a través de niveles de abstracción, cómo cada nodo hereda restricciones de los superiores y propaga efectos hacia los inferiores.
-
-Cada decisión técnica tiene historia. La documentación no es carga administrativa: es la memoria del sistema. Si no está documentado, no existe.
+In parallel, I apply the same orchestration principles to living systems at Kronos BioLabs — because emergence, state management, and cascade failure look the same whether the substrate is Python or plant tissue.
 
 ---
 
-## Fuera del código
+## Stack
 
-Escribo poesía épica y ficción científica. Construí una mitología original para modelar fuerzas primordiales en sistemas de IA. Estudio hebreo y ladino. Investigo mi genealogía sefardí. Trabajo en Phonikud, un diccionario de polisemia para el español y el hebreo.
+**ML/AI Engineering**
+Google ADK · Anthropic API (Claude) · LangGraph · Python · Docker · GCP · MLOps · IaC · static analysis in pre-commit
 
-Estos no son hobbies: son los instrumentos con los que proceso complejidad que no cabe en un diagrama de arquitectura.
-
-Trabajo desde un monasterio de casi 300 años en La Candelaria. Kronos (gato), Eeve (gata) y Hellen comparten el laboratorio. En las videollamadas es probable que me veas preparando café de especialidad.
-
----
-
-## Proyectos activos
-
-**deagentic/ — guardrails enterprise para trabajo agéntico**
-- [cornerstone](https://github.com/deagentic/cornerstone) — framework de CI agéntico diseñado para comprimir tiempo y costo en despliegues a escala enterprise
-- [keystone](https://github.com/deagentic/keystone) — MCP de conocimiento unificado: la capa de contexto persistente del ecosistema
-- [lodge](https://github.com/deagentic/lodge) — servidor de plataforma del ecosistema (Lifecycle · Orchestration · Distribution · Governance · Events)
-- [cornerstone-agents](https://github.com/deagentic/cornerstone-agents) — taxonomía de skills composables para agentes compartidos entre proyectos
-
-**Datos & Pipelines**
-- [kedro](https://github.com/ElCuboNegro/kedro) — pipelines de datos reproducibles y mantenibles
-
-**Lingüística computacional**
-- [phonikud](https://github.com/ElCuboNegro/phonikud) — conversión grafema-fonema (G2P) para hebreo
-
-**Herramientas**
-- [cookiecutter-agentic-ci](https://github.com/ElCuboNegro/cookiecutter-agentic-ci) — template para proyectos agénticos con CI/CD
-- [scaffold](https://github.com/ElCuboNegro/scaffold) — scaffold FastAPI + Celery + Behave
-
-## Guías y documentos
-
-- [Trabajar conmigo](https://github.com/ElCuboNegro/trabajar-conmigo) — cómo pienso, qué espero y cómo trabajo
-- [Guía de colaboración para la era de la IA](https://github.com/ElCuboNegro/collaboration-guides) — principios de colaboración para equipos con herramientas de IA
+**Biotechnology**
+Plant tissue culture · Murashige & Skoog medium · micropropagation · fungal biomass · computational biology
 
 ---
 
-*x / redes sociales: [@elcubonegr0](https://x.com/elcubonegr0)*
+## Active Projects
+
+**[deagentic/](https://github.com/deagentic) — enterprise guardrails for agentic AI workloads**
+- [cornerstone](https://github.com/deagentic/cornerstone) — agentic CI framework built to compress time and cost at enterprise scale
+- [keystone](https://github.com/deagentic/keystone) — unified knowledge MCP: the persistent context layer of the ecosystem
+- [lodge](https://github.com/deagentic/lodge) — platform server for the deAgentic ecosystem (Lifecycle · Orchestration · Distribution · Governance · Events)
+- [cornerstone-agents](https://github.com/deagentic/cornerstone-agents) — composable skill taxonomy for shared agents across projects
+
+**Data & Pipelines**
+- [kedro](https://github.com/ElCuboNegro/kedro) — reproducible, maintainable data pipelines
+
+**Computational Linguistics**
+- [phonikud](https://github.com/ElCuboNegro/phonikud) — Hebrew grapheme-to-phoneme (G2P) conversion
+
+**Tooling**
+- [cookiecutter-agentic-ci](https://github.com/ElCuboNegro/cookiecutter-agentic-ci) — project template for agentic CI/CD pipelines
+- [scaffold](https://github.com/ElCuboNegro/scaffold) — FastAPI + Celery + Behave production-ready scaffold
+
+---
+
+## Beyond the code
+
+I write epic poetry and science fiction. I built an original mythology to model primordial forces in AI systems. I study Hebrew and Ladino and research my Sephardic genealogy. I'm building [phonikud](https://github.com/ElCuboNegro/phonikud), a polysemy dictionary bridging Spanish and Hebrew.
+
+I work from a 300-year-old monastery in La Candelaria, Bogotá. Cronos (cat), Eeve (cat), and Hellen share the lab.
+
+---
+
+## Guides & Docs
+
+- [Working with me](https://github.com/ElCuboNegro/trabajar-conmigo) — how I think, what I expect, how I work
+- [Collaboration guide for the AI era](https://github.com/ElCuboNegro/collaboration-guides) — collaboration principles for AI-augmented teams
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElCuboNegro&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+
+---
+
+**Connect:** [x/@elcubonegr0](https://x.com/elcubonegr0) · [elcubonegro.github.io](https://elcubonegro.github.io) · [working with me →](https://github.com/ElCuboNegro/trabajar-conmigo)
